@@ -1,0 +1,8 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyAJINypZsUfSloL-gEuwFQr-lCkJWt0iAE",
+    authDomain: "alumni-hub-1075.firebaseapp.com",
+    projectId: "alumni-hub-1075",
+    storageBucket: "alumni-hub-1075.firebasestorage.app",
+    messagingSenderId: "382071610855",
+    appId: "1:382071610855:web:abc1d1d68a504ec6b63142"
+};
